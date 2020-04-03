@@ -1,0 +1,3 @@
+
+# any folder ending with _data we will ignore
+*_data/
